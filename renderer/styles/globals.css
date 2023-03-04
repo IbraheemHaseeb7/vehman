@@ -1,0 +1,12 @@
+* {
+  font-family: "Fira Code";
+}
+
+body {
+  background-color: white;
+}
+
+.main_container {
+  width: calc(100% - 12rem);
+  margin-left: 12rem;
+}
